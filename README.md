@@ -1,2 +1,2 @@
-# Cupoy
-The course of Cupoy
+# 1st-DL-CVMarathon
+The projects of 1st-DL-CVMarathon
